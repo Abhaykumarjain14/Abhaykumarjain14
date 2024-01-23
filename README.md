@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Abhaykumarjain14
-- 👀 I’m interested in ...coading
-- 🌱 I’m currently learning ...coading
-- 💞️ I’m looking to collaborate on ...software engineering
-- 📫 How to reach me ...friends
 
 
 <!---
